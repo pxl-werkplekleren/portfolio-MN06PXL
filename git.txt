@@ -1,0 +1,4 @@
+cd ~/OneDrive/Bureaublad/Portfolio/portfolio-MN06PXL
+git add .
+git commit -m
+git push
